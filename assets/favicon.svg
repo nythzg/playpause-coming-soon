@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .play { fill: #090a0d; }
+    @media (prefers-color-scheme: dark) { .play { fill: #ffffff; } }
+  </style>
+  <path class="play" d="M5 7.5 30 32 5 56.5Z"/>
+  <rect x="36" y="8" width="10" height="48" rx="4" fill="#5779fd"/>
+  <rect x="50" y="8" width="10" height="48" rx="4" fill="#5779fd"/>
+</svg>
